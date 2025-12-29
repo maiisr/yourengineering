@@ -2,4 +2,6 @@ streamlit
 pandas
 plotly
 scipy
+numpy
+matplotlib
 google-generativeai
